@@ -8,7 +8,6 @@ public class Main {
         }
         catch (ArithmeticException e){
             System.out.println("Exception cought");
-            //comment
         }
     }
 
