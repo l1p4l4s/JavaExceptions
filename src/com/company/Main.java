@@ -7,7 +7,7 @@ public class Main {
             throw new ArithmeticException("Demo");
         }
         catch (ArithmeticException e){
-            System.out.println("Exception cought");
+            System.out.println("Exception caught");
         }
     }
 
